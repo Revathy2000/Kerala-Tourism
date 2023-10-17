@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link{
+    margin-left: 30%;
+}
+
+h1{
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 3em;
+}
+
+
+
+.background-signup{
+    background-image: url(images/GettyImages-158318929-596cca145f9b582c3577c6e4.jpg);
+    background-size: cover;
+    height: 100%;
+    min-height: 100vh;
+}
+
+.row{
+    font-weight: 500;  
+}
+
+.background-login{
+    background-image: url(images/kerala-tamil-nadu-05-b78e963f-74df-4fc2-9e85-76729f346078.jpg);
+    background-size: cover;
+    height: 100%;
+    min-height: 100vh;
+}
+
+.col{
+    font-weight: 500;
+}
+
+#fp{
+    text-decoration: none;
+}
+
+.dist{
+    text-decoration: none;
+}
+
+.des1{
+    margin-top: 5%;
+}
+
+.login-bg{
+    background-color: #845832;
+    padding: 5%;
+    border-radius: 15px;
+    opacity: 0.9;
+}
+
+.signup-bg{
+    background-color: #3871a8;
+    border-radius: 15px;
+    opacity: 0.8;
+    padding-left: 1% !important;
+    padding-right: 1% !important;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
